@@ -1,0 +1,29 @@
+Project "" on 
+Backend:
+"",
+Frontend:
+"",
+;
+
+Type: "";
+
+Type of name: "Personal";
+
+Имя: None; 
+
+GitHub: "golyak-artyom";
+Type of GitHub: "Private";
+
+Base: "";
+
+
+Broken down by stages: [s
+
+	Backend: {
+	
+	}
+
+	Frontend : {
+
+	}
+];

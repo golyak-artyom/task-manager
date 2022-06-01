@@ -1,7 +1,7 @@
 <center>
 	<h1>
 		TMGP  Service
-		<img src="./img/tmgp_service-removebg-preview.png" width="32" height="32">
+		<img src="./img/tmgp service.png" width="32" height="32">
 	</h1>
 </center>
 <center>

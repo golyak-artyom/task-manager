@@ -7,17 +7,17 @@ Frontend:
 
 Type: "";
 
-Type of name: "Personal";
+Type of name: "";
 
-Имя: None; 
+Имя: ""; 
 
-GitHub: "golyak-artyom";
-Type of GitHub: "Private";
+GitHub: "";
+Type of GitHub: "";
 
 Base: "";
 
 
-Broken down by stages: [s
+Broken down by stages: [
 
 	Backend: {
 	
@@ -27,3 +27,24 @@ Broken down by stages: [s
 
 	}
 ];
+
+Domain: "";
+
+
+Host: "";
+
+
+How many people: "";
+
+
+Count of works in time: "";
+
+
+Hard or easy or normal: "";
+
+
+
+
+
+
+

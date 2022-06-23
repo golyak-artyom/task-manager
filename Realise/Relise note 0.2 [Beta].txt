@@ -1,0 +1,11 @@
+Update 0.2 [Beta]
+
+We add new functions!
+
+- We add new wedening .tmgp
+  	Main file - main.tmgp
+  	
+- We add directory "Plug" and you can add file and add in your main.tmgp with Plugin: "NAME";
+	In directory plugin you can install plugin "Site" for testing new system.
+	
+- 

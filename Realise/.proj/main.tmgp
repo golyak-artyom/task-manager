@@ -1,18 +1,33 @@
+Plugin "";
+
+
 Project "" on 
 Backend:
 "",
+
 Frontend:
 "",
+
+Main:
+"",
+
 ;
 
 Type: "";
 
+
 Type of name: "";
 
-Имя: ""; 
+
+Name: ""; 
+
 
 GitHub: "";
+
+
 Type of GitHub: "";
+
+
 
 Base: "";
 
@@ -27,24 +42,3 @@ Broken down by stages: [
 
 	}
 ];
-
-Domain: "";
-
-
-Host: "";
-
-
-How many people: "";
-
-
-Count of works in time: "";
-
-
-Hard or easy or normal: "";
-
-
-
-
-
-
-
